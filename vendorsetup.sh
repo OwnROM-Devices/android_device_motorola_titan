@@ -1,6 +1,5 @@
 #
 # Copyright 2014 The Android Open Source Project
-# Copyright 2016 Nitrogen Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,5 +14,5 @@
 # limitations under the License.
 #
 
-PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/ownrom.mk
+add_lunch_combo ownrom_titan-userdebug
+
