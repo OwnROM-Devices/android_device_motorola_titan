@@ -36,7 +36,4 @@ PRODUCT_MANUFACTURER := motorola
 PRODUCT_RELEASE_NAME := titan
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
-<<<<<<< HEAD:ownrom.mk
 
-=======
->>>>>>> fa4a49dda8ece8914b863677a2c0108f12755562:ownrom.mk
