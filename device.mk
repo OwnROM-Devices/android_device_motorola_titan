@@ -40,5 +40,8 @@ PRODUCT_COPY_FILES += \
 # Inherit from msm8226-common
 $(call inherit-product, device/motorola/msm8226-common/msm8226.mk)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fa4a49dda8ece8914b863677a2c0108f12755562
 I_WANT_A_QUAIL_STAR=true
