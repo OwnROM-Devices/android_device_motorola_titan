@@ -25,6 +25,11 @@
     "revision":  "cm-14.1"
   }
   
+   {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport",
+    "revision":  "cm-14.1"
+  }
   
   {
     "repository": "LineageOS/android_external_sony_boringssl-compat",
